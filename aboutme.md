@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abigail E. Moore
-subtitle: Bioinformatics researcher
+subtitle: Bioinformatics Researcher
 ---
 
 I am a bioinformatics researcher with interests in data governance and management, meta-analysis, integrated omics and systems biology. My goal is to lead data management practices and develop data management solutions that maximize the potential of heterogeneous data to transform biomedicine. 
