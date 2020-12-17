@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Abigail E. Moore
 subtitle: Bioinformatics researcher
 ---
 
